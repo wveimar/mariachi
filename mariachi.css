@@ -1,0 +1,120 @@
+/* Estilos para el encabezado */
+header {
+    background-color: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    font-size: 36px;
+    margin: 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  nav ul li a:hover {
+    background-color: #444;
+  }
+  
+  /* Estilos para las secciones */
+  section {
+    padding: 50px;
+  }
+  
+  section h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  section p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  section ul {
+    list-style: disc;
+    padding-left: 20px;
+  }
+  
+  /* Estilos para el pie de página */
+  footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
+  /* Estilos adicionales */
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+  }
+  
+  a {
+    color: #007bff;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Estilos para la imagen de portada */
+.cover-image {
+    background-image: url('portada.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px; /* Ajusta la altura según tus necesidades */
+  }
+  
+  /* Estilos para el contenido del encabezado */
+  .header-content {
+    text-align: center;
+    padding: 50px 0;
+    color: white;
+  }
+  
+  .header-content h1 {
+    font-size: 36px;
+    margin: 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  nav ul li a:hover {
+    background-color: #444;
+  }
+  
